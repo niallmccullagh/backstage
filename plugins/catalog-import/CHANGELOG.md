@@ -1,5 +1,12 @@
 # @backstage/plugin-catalog-import
 
+## 0.3.3
+
+### Patch Changes
+
+- Updated dependencies [73e75ea0a]
+  - @backstage/plugin-catalog-backend@0.6.0
+
 ## 0.3.2
 
 ### Patch Changes

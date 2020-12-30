@@ -1,5 +1,17 @@
 # @backstage/plugin-catalog-backend
 
+## 0.6.0
+
+### Minor Changes
+
+- 73e75ea0a: Add processor for ingesting AWS accounts from AWS Organizations
+
+### Patch Changes
+
+- Updated dependencies [00042e73c]
+- Updated dependencies [0829ff126]
+  - @backstage/backend-common@0.4.2
+
 ## 0.5.1
 
 ### Patch Changes

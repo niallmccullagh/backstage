@@ -1,5 +1,14 @@
 # @backstage/techdocs-common
 
+## 0.3.2
+
+### Patch Changes
+
+- 00042e73c: Moving the Git actions to isomorphic-git instead of the node binding version of nodegit
+- Updated dependencies [00042e73c]
+- Updated dependencies [0829ff126]
+  - @backstage/backend-common@0.4.2
+
 ## 0.3.1
 
 ### Patch Changes

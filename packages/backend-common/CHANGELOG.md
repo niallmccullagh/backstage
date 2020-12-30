@@ -1,5 +1,12 @@
 # @backstage/backend-common
 
+## 0.4.2
+
+### Patch Changes
+
+- 00042e73c: Moving the Git actions to isomorphic-git instead of the node binding version of nodegit
+- 0829ff126: Tweaked development log formatter to include extra fields at the end of each log line
+
 ## 0.4.1
 
 ### Patch Changes
